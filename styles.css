@@ -1,0 +1,16 @@
+.search-bar-container{
+    margin: 20px 0;
+}
+
+.hiddenId{
+    display: none;
+}
+
+.firstCapitalized:first-letter {
+    text-transform:capitalize;
+}
+
+.blured{
+    transition: 0.3s -webkit-filter linear;
+    filter: blur(4px);
+}
